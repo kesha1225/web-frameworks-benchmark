@@ -2,4 +2,4 @@
 
 12 threads, 400 connections, 30 seconds
 
-<a href="https://imgur.com/iojZT1O"><img src="https://i.imgur.com/iojZT1O.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/EdL9hJx"><img src="https://i.imgur.com/EdL9hJx.jpg" title="source: imgur.com" /></a>

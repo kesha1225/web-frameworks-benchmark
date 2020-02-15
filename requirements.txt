@@ -3,10 +3,10 @@ bobo
 pycnic
 falcon
 cherrypy
-kumquat
+https://github.com/prostomarkeloff/Freezy/archive/master.zip
+https://github.com/kesha1225/Kumquat/archive/master.zip
 pyramid
 fastapi
-vibora
 tornado
 quart
 uvicorn

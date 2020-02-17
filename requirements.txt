@@ -1,3 +1,4 @@
+requests
 muffin
 bobo
 pycnic
@@ -16,3 +17,4 @@ starlette
 flask
 bottle
 sanic
+japronto
